@@ -1,5 +1,5 @@
 {
-  "name": "toxyTech/git-commit-checker",
+  "name": "toxy-tech/git-commit-checker",
   "description": "Check coding standard & code syntax with Git pre-commit hook.",
   "type": "package",
   "license": "MIT",
@@ -12,8 +12,8 @@
   "homepage": "https://toxyTech.com",
   "authors": [
     {
-      "name": "Sang Nguyen",
-      "email": "sangnguyenplus@gmail.com"
+      "name": "Adham Elsharkawy",
+      "email": "adhamshrqawy@icloud.com"
     }
   ],
   "autoload": {
